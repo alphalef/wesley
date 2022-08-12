@@ -19,5 +19,5 @@
 </style>
 
 <div class=stage_header>
-    <a href="/stages"><h3>메뉴 보기</h3></a>
+    <a href="/stages"><h3 style="color:#fff;">메뉴 보기</h3></a>
 </div>
