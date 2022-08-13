@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('https://image.invaluable.com/housePhotos/potomackcompany/03/642003/H1122-L168958680_original.jpg');
+        background-image: url('https://cdn.writermag.com/2019/03/question-marks.jpg');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -30,15 +30,15 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1736.1.23.</span>
+            John Wesley <span>@J_Wesley</span><span>· 1736.1.25.</span>
             <p>
-                🌧️ 저녁에 또다시 폭풍이 시작되었다. 아침에는 더욱 심해져서 배가 곤두박칠치게 되었다. "나는 어찌하여 그렇게도 믿음이 없느냐?"라는 말밖에 할수가 없었다. 왜냐하면 아직도 죽지 않으려고 안달을 했기 때문이다...            
+                오글소프 씨가 독일인 교회 목사 슈팡엔베르크 씨와 함께 사반나로부터 돌아왔다. 나는 곧 그의 심령이 얼마나 훌륭한가를 알고 내 자신의 행동에 관하여 그에게 충고를 부탁하였다. 그는 말하였다. "내 형제여, 나는 먼저 당신에게 한 두 가지 물어야겠습니다. 당신 자신 속에 증언이 있습니까?" 나는 놀랐다. 무슨 말을 해야 할지를 몰랐다. 그는 그것을 관찰하고 또 물었다. "당신은 예수 그리스도를 압니까?" 나는 잠시 멈추었다가 "나는 그분이 세상의 구세주이심을 압니다."라고 대답하였다. 그러자 그는 대답하였습니다. "옳습니다. 그러나 그분이 당신을 구원하셨다는 것을 압니까?" 나는 대답하였다. "나는 그분이 나를 구원하시기 위하여 죽으셨을 것으로 희망합니다." 그는 다만 이렇게 덧붙였다. "당신 자신을 압니까?" 나는 "압니다"라고 대답하였다. 그러나 그것은 빈말 같아서 두려웠다.         
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://i.pinimg.com/originals/f1/70/d8/f170d85c24e49465cfeeadff1aab5db0.jpg" alt="" class="tweet-img">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/cliZ/image/lQY6SYsseoTsm6cjmwV3G5Sh1Xc.jpg" alt="" class="tweet-img">
 </div>
 
 
@@ -70,7 +70,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/menu'">메뉴로</button>
         </div>
     </div>
 

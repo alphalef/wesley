@@ -16,6 +16,7 @@
         font-size: 4rem;
         margin-top: 40px;
         font-family: 'Dancing Script', cursive;
+        font-weight: 700;
     }
 
 
@@ -29,7 +30,7 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>. 1736.1.23.</span>
+            John Wesley <span>@J_Wesley</span><span>· 1736.1.23.</span>
             <p>
                 🚢 동생 찰스 웨슬리와 함께 작은 배를 타고 미국 조지아를 향해 떠났다. 우리가 모국을 떠나는 이유는 궁핍함 때문이 아니다. 세상의 쓰레기 같은 부와 명예를 얻기 위함도 아니요, 오직 우리의 영혼을 구원하기 위함이다.
             </p>    
@@ -68,7 +69,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/twitter/index/1-2'">다음 일기 보기</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-2'">다음으로</button>
         </div>
     </div>
 

@@ -3,11 +3,11 @@
 
     .stage_header {
         height: 40px;
-        background: #519EB1;
+        background: rgba(120,53,36,0.6);
         text-align: center;
         margin-bottom: -40px;
         z-index: 99;
-        position: absolute;
+        position: relative;
         width: 100%;
         padding-top: 7px;
     }
@@ -19,5 +19,5 @@
 </style>
 
 <div class=stage_header>
-    <a href="/stages"><h3 style="color:#fff;">메뉴 보기</h3></a>
+    <a href="/stages"><p style="color:#fff; font-size:20px;">메뉴 보기</p></a>
 </div>

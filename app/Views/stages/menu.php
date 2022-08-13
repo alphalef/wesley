@@ -38,10 +38,10 @@ p {
                                     <h3>웨슬리 목사님의 일기장</h3>
                                 </div>
                                 <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                    <button class="btn btn-info" type="button" onClick="location.href='/stages/index/menu0'">#0 서로를 알아가기</button>
-                                    <button class="btn btn-info" type="button" onClick="location.href='/stages/index/menu1'">#1 미국 선교, 그리고 모라비안</button>
-                                    <button class="btn btn-info" type="button" onClick="location.href='#">#2 회심</button>
-                                    <button class="btn btn-info" type="button" onClick="location.href='#">#3 세계는 나의 교구다</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">#0 서로를 알아가기</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-1-1'">#1 미국 선교, 그리고 모라비안</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='#">#2 회심</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='#">#3 세계는 나의 교구다</button>
                                     <!-- <button class="btn btn-info" type="button" onClick="location.href='/stages/index/menu1'">#0 서로를 알아가기</button> -->
                                 </div>
                             </div>

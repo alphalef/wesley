@@ -30,15 +30,15 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1736.1.23.</span>
+            John Wesley <span>@J_Wesley</span><span>· 1736.1.25.</span>
             <p>
-                🌧️ 저녁에 또다시 폭풍이 시작되었다. 아침에는 더욱 심해져서 배가 곤두박칠치게 되었다. "나는 어찌하여 그렇게도 믿음이 없느냐?"라는 말밖에 할수가 없었다. 왜냐하면 아직도 죽지 않으려고 안달을 했기 때문이다...            
+                예배가 시작되면서 시편이 한참 낭송되고 있는데 파도가 덮쳐서 큰 돛대가 산산조각이 나고 배를 뒤덮어 갑판과 갑판 사이로 쏟아져 내렸다. 마치 큰 바다 깊은 물이 우리를 다 삼켜 버릴 것 같았다. 영국 사람 사이에서는 귀를 찢을 듯한 비명이 터져 나왔다. 그러나 독일 사람들(모라비안교도)은 조용히 계속하여 시편을 낭송하였다. 나는 후에 그들 중 한 사람에게 물었습니다. "당신은 두렵지 않습니까?" 그러자 그는 "아니오, 하나님께 감사할 따름입니다."하고 대답하는 것이었다. 나는 다시 물었다. "그렇지만 당신네의 부인들과 어린이들은 두려워하지 않았습니까?" 그는 부드럽게 대답하였습니다. "아니오, 우리네 부인들과 어린이들은 죽음을 두려워하지 않습니다."          
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://i.pinimg.com/originals/f1/70/d8/f170d85c24e49465cfeeadff1aab5db0.jpg" alt="" class="tweet-img">
+    <img src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/06/01/iStock-1181376545-1591033273.jpg?itok=5ZUUeYMq" alt="" class="tweet-img">
 </div>
 
 
@@ -70,7 +70,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-4'">다음으로</button>
         </div>
     </div>
 
