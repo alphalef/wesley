@@ -25,6 +25,11 @@ body {
     h3 {
         font-size: 20px;
     }
+
+    #quiz-box {
+        /* margin-top:100px; */
+        padding: 20px;
+    }
 }
 
 </style>
@@ -32,7 +37,7 @@ body {
 
 <div class="carousel-item active">
     <div class="slider_area">
-        <div class="single_slider d-flex align-items-center" style="height: 100vh;">
+        <div class="single_slider d-flex align-items-center" style="height: 100vh; min-height:800px;">
             <div style="position: absolute; width: 100%;">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
