@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('https://georgianera.files.wordpress.com/2015/04/pool-of-london-painting-by-john-wilson-carmichael.jpg');
+        background-image: url('https://www.gannett-cdn.com/presto/2021/10/08/NRPT/aa1763b5-91ad-467f-9a21-71a3aca92d4d-faith_blocks.jpg');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -30,15 +30,15 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.1.24.</span>
+            John Wesley <span>@J_Wesley</span><span>· 1738.3.4.</span>
             <p>
-                나는 인디언들을 개종시키기 위해 식민지(America)에 갔다. 그러나 아! 누가 나를 회심케 할 것인가? 누가, 무엇이 나를 불신의 죄악된 마음에서 건져줄 수 있을까?…… 나는 위험이 가까이 오지 않는 선에서 내 자신을 믿고 말도 잘 할 수 있다. 그러나 죽음이 내 얼굴을 바라보자 내 영혼은 괴로움에 떨었다. 더 이상 “죽는 것도 유익함이라”(빌 2:21)고 말할 수 없다 …… 오, 누가 나를 죽음의 공포에서 해방시켜 줄 수 있을까? 나는 무엇을 해야 하나? 어디로 날아가야 하나? 생각하거나 망각함으로 이 두려움과 맞서 싸워야 할까? 
+                피터 뵐레를 통해 나는 내가 믿음이 없다는 사실을 깨달았다. 오직 믿음, 그 구원의 믿음이 내게 결핍되어 있다는 사실을 알게 되었다. 그것은 완전한 그리스도의 구원이다. 이 사실을 깨닫는 즉시 나는 충격을 받았다. '이제 설교를 그만해라. 자신도 믿음이 없으면서 어떻게 내가 다른 사람들에게 설교할 수 있겠는가'라는 생각을 하게 되었다. ... 피터 뵐레는 "결코 그만두어서는 안 됩니다"라고 대답했다. "그러나 내가 무엇을 설교할 수 있겠습니까?"라고 물었더니, 그는 "믿음에 대하여 설교하세요. 당신이 믿음을 소유할 때까지 그리고 믿음이 생긴 후에는 이제 당신에게 믿음이 생겼으니까 그 믿음에 대해 설교할 것입니다"라고 답했다.
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://2d0fce5c26.clvaw-cdnwnd.com/99abe6748f56d12c3252904ca60a4973/200001252-46ffa46ffc/John_Wesley_preaching_to_native_American_Indians._Engraving._Wellcome_V0006867-2.jpg?ph=2d0fce5c26" alt="" class="tweet-img">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/PeterBoehler.jpg/640px-PeterBoehler.jpg" alt="" class="tweet-img">
 </div>
 
 <div class="tweet-info-counts">
@@ -69,7 +69,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-2-1'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-2'">다음으로</button>
         </div>
     </div>
 

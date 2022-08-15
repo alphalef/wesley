@@ -1,7 +1,7 @@
 <style>
 
 body {
-    background-image: url('https://2d0fce5c26.clvaw-cdnwnd.com/99abe6748f56d12c3252904ca60a4973/200001252-46ffa46ffc/John_Wesley_preaching_to_native_American_Indians._Engraving._Wellcome_V0006867-2.jpg?ph=2d0fce5c26');
+    background-image: url('https://www.gannett-cdn.com/presto/2021/10/08/NRPT/aa1763b5-91ad-467f-9a21-71a3aca92d4d-faith_blocks.jpg');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
@@ -44,7 +44,7 @@ body {
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
                             <h1 style="padding-bottom: 10px;">#2 변화의 계기</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                웨슬리 목사님은 조지아 사바나에서 2년여 동안 선교 사역을 감당했지만 많은 어려움에 부딪힙니다. 웨슬리 목사님은 선교지에서도 엄격한 금욕주의와 영국 교회 중심의 원칙을 지키려 했기 때문에 그 곳에서 일반 성도들의 호감을 얻지 못하였고, 불미스러운 일로 1737년 12월 2일 어려운 마음으로 귀국길에 오르게 되었고, 1738년 2월 1일 고국에 도착하게 됩니다. 웨슬리 목사님 스스로 생각하기에 근본적으로 자신에게 결여되어 있었던 것은 무엇이었나요?
+                                웨슬리 목사님은 선교여행에서 돌아온 이후 몇개월동안 영적으로 깊은 침체 상태에 빠져들었습니다. 이에 웨슬리 목사님은 설교 자체를 하지 않으려고까지 생각했습니다. 그러나 웨슬리 목사님의 독일인 친구 피터 뵐레는 그런 웨슬리 목사님을 독려하며 계속해서 설교할 것을 권면하였습니다. 이에 웨슬리 목사님은 어떤 주제로 설교를 할 수 있겠는가 하고 반문하였을 때, 피터 뵐레는 OO에 대하여 설교하라고 권면합니다. 이 주제는 무엇이었을까요?
                             </h3>
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">
                             <input type="button" name="submit" class="btn btn-secondary" style="max-width: 300px; font-size:16px; margin-top:10px;" onClick="answer()" id="button1" value="정답입력">
@@ -52,7 +52,7 @@ body {
 
                         <div class="col-lg-8">
                             <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/2-1'">웨슬리 목사님의 복귀</button>
+                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/2-2'">믿음의 확신</button>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ body {
     function answer() {
         let answer = document.getElementById('answer').value.trim();
 
-        if(answer.trim() == "회심") {
+        if(answer.trim() == "믿음") {
             window.alert('정답입니다!');
             document.getElementById('next').style.display = 'block';
         } else {

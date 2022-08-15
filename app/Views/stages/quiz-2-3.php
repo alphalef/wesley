@@ -1,7 +1,7 @@
 <style>
 
 body {
-    background-image: url('https://2d0fce5c26.clvaw-cdnwnd.com/99abe6748f56d12c3252904ca60a4973/200001252-46ffa46ffc/John_Wesley_preaching_to_native_American_Indians._Engraving._Wellcome_V0006867-2.jpg?ph=2d0fce5c26');
+    background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
@@ -44,7 +44,7 @@ body {
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
                             <h1 style="padding-bottom: 10px;">#2 변화의 계기</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                웨슬리 목사님은 조지아 사바나에서 2년여 동안 선교 사역을 감당했지만 많은 어려움에 부딪힙니다. 웨슬리 목사님은 선교지에서도 엄격한 금욕주의와 영국 교회 중심의 원칙을 지키려 했기 때문에 그 곳에서 일반 성도들의 호감을 얻지 못하였고, 불미스러운 일로 1737년 12월 2일 어려운 마음으로 귀국길에 오르게 되었고, 1738년 2월 1일 고국에 도착하게 됩니다. 웨슬리 목사님 스스로 생각하기에 근본적으로 자신에게 결여되어 있었던 것은 무엇이었나요?
+                                1738년 5월 24일 저녁 요한 웨슬리는 내적 고민을 거듭하던 끝에 드디어 그가 바라던 구원의 확신을 체험하게 되었습니다. 런던의 올더스케이트 거리에 위치한 어느 작은 기도 모임의 참석은 요한 웨슬레의 장래와 그의 사역 방향을 바꾸어 놓게 되었습니다. 웨슬리 목사님은 그 모임 가운데에서 온전한 회심의 경험을 하게 됩니다. 웨슬리 목사님은 성경에 대한 루터의 주석을 들으며 회심의 경험을 하게 됩니다. 웨슬리 목사님을 회심케 한 루터의 주석서는 무엇입니까?
                             </h3>
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">
                             <input type="button" name="submit" class="btn btn-secondary" style="max-width: 300px; font-size:16px; margin-top:10px;" onClick="answer()" id="button1" value="정답입력">
@@ -52,7 +52,7 @@ body {
 
                         <div class="col-lg-8">
                             <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/2-1'">웨슬리 목사님의 복귀</button>
+                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/2-3'">웨슬리 목사님의 회심</button>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ body {
     function answer() {
         let answer = document.getElementById('answer').value.trim();
 
-        if(answer.trim() == "회심") {
+        if(answer.trim() == "로마서") {
             window.alert('정답입니다!');
             document.getElementById('next').style.display = 'block';
         } else {

@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('https://georgianera.files.wordpress.com/2015/04/pool-of-london-painting-by-john-wilson-carmichael.jpg');
+        background-image: url('https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LLR/EPWOR/LLR_EPWOR_2009_283-001.jpg');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -30,15 +30,15 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.1.24.</span>
+            John Wesley <span>@J_Wesley</span><span>· 1739.4.2.</span>
             <p>
-                나는 인디언들을 개종시키기 위해 식민지(America)에 갔다. 그러나 아! 누가 나를 회심케 할 것인가? 누가, 무엇이 나를 불신의 죄악된 마음에서 건져줄 수 있을까?…… 나는 위험이 가까이 오지 않는 선에서 내 자신을 믿고 말도 잘 할 수 있다. 그러나 죽음이 내 얼굴을 바라보자 내 영혼은 괴로움에 떨었다. 더 이상 “죽는 것도 유익함이라”(빌 2:21)고 말할 수 없다 …… 오, 누가 나를 죽음의 공포에서 해방시켜 줄 수 있을까? 나는 무엇을 해야 하나? 어디로 날아가야 하나? 생각하거나 망각함으로 이 두려움과 맞서 싸워야 할까? 
+              오후 4시에 나는 상식에서 조금 더 벗어난 일을 하기로 하였다. 나는 도시에 접하고 있는 약간 높은 언덕에 서서 약 삼천명의 청중(광부들)에게 구원의 기쁜 소식을 선포하였다, 내가 선포한 성경 말씀은 다음과 같다. ”주의 성령이 내게 임하셨으니 이는 가난한 자에게 복음을 전하게 하시려고 내게 기름을 부으시고 나를 보내사 포로된 자에게 자유를, 눈먼 자에게 다시 보게 함을 전파하며 눌린 자를 자유케 하고 주의 은혜의 해를 전파하게 하려 하심이라 (*광부들에게 전했던 첫 설교에 대한 기록)
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://2d0fce5c26.clvaw-cdnwnd.com/99abe6748f56d12c3252904ca60a4973/200001252-46ffa46ffc/John_Wesley_preaching_to_native_American_Indians._Engraving._Wellcome_V0006867-2.jpg?ph=2d0fce5c26" alt="" class="tweet-img">
+    <img src="https://monroeumc.files.wordpress.com/2014/03/image22.jpg" alt="" class="tweet-img">
 </div>
 
 <div class="tweet-info-counts">
@@ -69,7 +69,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-2-1'">다음으로</button>
+          <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/3-3'">다음으로</button>
         </div>
     </div>
 
