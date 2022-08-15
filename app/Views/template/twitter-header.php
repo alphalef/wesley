@@ -12,6 +12,6 @@
 
 
 
-  <title>웨슬리의 일기 (영국 선교, 그리고 모라비안과의 만남)</title>
+  <title>나는 웨슬리안이다</title>
 </head>
 <body>
