@@ -70,7 +70,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/quiz-1-4'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/explain-1-3'">다음으로</button>
         </div>
     </div>
 

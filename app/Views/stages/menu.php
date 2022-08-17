@@ -35,13 +35,14 @@ p {
                             <div class="col-lg-8">
                                 <div class="slider_text text-center justify-content-center">
                                     <p>2022 동대문교회 청년부 여름 프로그램</a></p>
-                                    <h3>웨슬리 목사님의 일기장</h3>
+                                    <h3>나는 웨슬리안이다!</h3>
                                 </div>
                                 <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">#0 서로를 알아가기</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-1-1'">#1 미국 선교, 그리고 모라비안</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-2-1'">#2 변화의 계기</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='#">#3 세계는 나의 교구다</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Sharing</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-1-1'">Stage #1</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-2-1'">Stage #2</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-3-1'">Stage #3</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Meditation</button>
                                     <!-- <button class="btn btn-info" type="button" onClick="location.href='/stages/index/menu1'">#0 서로를 알아가기</button> -->
                                 </div>
                             </div>

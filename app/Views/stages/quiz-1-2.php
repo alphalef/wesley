@@ -1,7 +1,7 @@
 <style>
 
 body {
-    background-image: url('https://savoringthepast.files.wordpress.com/2013/03/siftingthepast_ships-in-the-thames-estuary_sailmaker-1708.jpg');
+    background-image: url('https://static-prod.adweek.com/wp-content/uploads/2020/10/virtual-escape-room-PAGE-2020-1240x620.jpg.webp');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
@@ -42,10 +42,11 @@ body {
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                            <h1 style="padding-bottom: 10px;">#1 미국선교</h1>
+                        <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                신대륙 미국의 조지아로 떠난 존 웨슬리와 찰스 웨슬리는 선교의 여정 가운데 커다란 어려움을 맞딱뜨리게 됩니다. 웨슬리 형제는 선교 여정 가운데 어떤 어려움을 마주하였나요? (<a href="/img/quiz/quiz-1-2.png" target=_blank>힌트보기</a>)
+                                아주 오래된 일기장인 것 같다. 이 일기장 조각들을 모두 모으면 이 방에서 나갈 수 있을 것 같다. 무언가 바코드 같이 생긴 것이 보인다. 이것이 두번째 열쇠일까?
                             </h3>
+                            <!-- <p>(<a href="/img/quiz/quiz-1-2.png" target=_blank>힌트보기</a>)</p> -->
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">
                             <input type="button" name="submit" class="btn btn-secondary" style="max-width: 300px; font-size:16px; margin-top:10px;" onClick="answer()" id="button1" value="정답입력">
                         </div>
