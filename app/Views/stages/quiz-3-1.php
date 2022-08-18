@@ -52,7 +52,7 @@ body {
 
                         <div class="col-lg-8">
                             <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/3-2'">사역의 변화</button>
+                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/twitter/index/3-1'">사역의 변화</button>
                             </div>
                         </div>
                     </div>

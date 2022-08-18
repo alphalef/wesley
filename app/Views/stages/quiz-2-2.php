@@ -1,12 +1,13 @@
 <style>
 
 body {
-    background-image: url('https://www.gannett-cdn.com/presto/2021/10/08/NRPT/aa1763b5-91ad-467f-9a21-71a3aca92d4d-faith_blocks.jpg');
+    background-image: url('https://worldofescapes-com.s3.amazonaws.com/uploads/quests/11451/medium/escape-the-room-la-western-bank-heist.jpg');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
     background-size: cover;     
 }
+
 
 
 .btn {
@@ -42,9 +43,9 @@ body {
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                            <h1 style="padding-bottom: 10px;">#2 변화의 계기</h1>
+                        <h1 style="padding-bottom: 10px;">Chapter 2. 외부</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                웨슬리 목사님은 선교여행에서 돌아온 이후 몇개월동안 영적으로 깊은 침체 상태에 빠져들었습니다. 이에 웨슬리 목사님은 설교 자체를 하지 않으려고까지 생각했습니다. 그러나 웨슬리 목사님의 독일인 친구 피터 뵐레는 그런 웨슬리 목사님을 독려하며 계속해서 설교할 것을 권면하였습니다. 이에 웨슬리 목사님은 어떤 주제로 설교를 할 수 있겠는가 하고 반문하였을 때, 피터 뵐레는 OO에 대하여 설교하라고 권면합니다. 이 주제는 무엇이었을까요?
+                                웨슬리 목사님 역시 개인적인 실패를 경험하기도 했구나. 회심이라.. 그런데 여기서 어떻게 나가야 하지? 밖으로 나가는 문에 자물쇠가 달려 있다. 이 자물쇠를 열어야 밖으로 나갈 수 있을 것 같은데... 무엇으로 이 묶여 있는 자물쇠를 열 수 있을까?
                             </h3>
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">
                             <input type="button" name="submit" class="btn btn-secondary" style="max-width: 300px; font-size:16px; margin-top:10px;" onClick="answer()" id="button1" value="정답입력">
@@ -62,14 +63,14 @@ body {
     </div>
 </div>
 
-
+<!-- 문0, 문1, 문2를 적음. 문0 뒤에 성경 구절 => 00 소망 사랑 -->
 
 <script>
 
     function answer() {
         let answer = document.getElementById('answer').value.trim();
 
-        if(answer.trim() == "믿음") {
+        if(answer.trim() == "F41T6") {
             window.alert('정답입니다!');
             document.getElementById('next').style.display = 'block';
         } else {

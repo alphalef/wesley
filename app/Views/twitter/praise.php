@@ -1,10 +1,10 @@
-<style>
+ㅔ<style>
 
-    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+    @import url('https://images.unsplash.com/photo-1570786032462-2efc3ca8fccd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJhaXNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
 
 
     body {
-        background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
+        background-image: url('https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LLR/EPWOR/LLR_EPWOR_2009_283-001.jpg');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -28,18 +28,24 @@
 
 <div class="tweet-wrap">
     <div class="tweet-header">
-        <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
+        <img src="<?=base_url('img/logo.jpg')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.5.24.</span>
+            동대문교회 <span>@ddmch</span><span>· 2022.8.20.</span>
             <p>
-                “저녁에 마음이 별로 내키지 않았으나 나는 올더스케이트 가에서 모이는 한 교회의 집회에 참석했다. 그 때에 어떤 사람이 로마서에 대한 루터의 서문을 읽고 있었다. 8시 45분쯤 되었을 때 그리스도를 믿는 신앙을 통해 하나님께서 우리 마음에 역사하심으로써 일어나는 변화에 대하여 설명할때에 내 마음이 이상하게 뜨거워지는 것을 느꼈다. 내가 그리스도를 믿고 있었고 그때에 나는 예수 그리스도를 통해서만이 구원을 얻을 수 있다는 확신을 얻게 되었다. 그리고 그리스도께서 내 죄를 사하여 주시고 나같은 죄인의 죄마저도 또한 죄와 사망의 법에서 구원해 주셨다는 확신을 가지게 되었다”
+              <br><br>
+              <a href="https://i.pinimg.com/736x/32/07/5f/32075f700f8149104ace90a01228e612.jpg" target=_blank>나 무엇과 주님을 바꾸지 않으리</a><br><br>
+              <a href="https://mblogthumb-phinf.pstatic.net/MjAxNzA4MjVfODMg/MDAxNTAzNjY4NzIzMTAz.CkTouIBRt3cYxetUqrtqJK0P6MIftprimz5glXgmoBIg.jEJQF7qQb-v5Sd9ZLNbSJhXq7gGgZqOc8_p8-uEjTrcg.JPEG.abcdeslove/se3_image_3256472806.jpg?type=w800" target=_blank>찬양하세</a><br><br>
+              <a href="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FomyOA%2FbtqxAcWbW8Q%2Fc7kgY9BSadDLxuAh6mw1KK%2Fimg.jpg" target=_blank>다와서 찬양해</a><br><br>
+              <a href="https://t1.daumcdn.net/cfile/tistory/99F55033598E93E101" target=_blank>나의 안에 거하라</a><br><br>
+              <a href="http://www.euroluxchurch.org/wp-content/uploads/2015/02/%EC%A3%BC%EB%A5%BC%EC%9C%84%ED%95%9C%EC%9D%B4%EA%B3%B3%EC%97%90D1.jpg" target=_blank>주를 위한 이곳에</a><br><br>
+              <a href="https://mblogthumb-phinf.pstatic.net/MjAxNzA2MjRfODcg/MDAxNDk4MzEyMjUyNzA4.8bEkDpKdYQYxzw2Qi7T6yXGRuYquZr5tq5XrHhL3Kz8g.4eG_x1YcUpzqHp_Puhgurp0T616v4HRTnVW5QMx5c3wg.JPEG.abcdeslove/se3_image_1672709796.jpg?type=w800" target=_blank>그 사랑 얼마나</a><br><br>
+
+
             </p>    
         </div>
     </div>
     
-<div class="tweet-img-wrap">
-    <img src="https://i0.wp.com/godsmissionarychurch.org/wp-content/uploads/2018/11/aldersgate-experience_orig.jpg?fit=979%2C629&ssl=1" alt="" class="tweet-img">
-</div>
+
 
 <div class="tweet-info-counts">
       
@@ -67,11 +73,6 @@
     </div>
   </div>
 
-    <div class="col-lg-12">
-        <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/explain-2-3'">다음으로</button>
-        </div>
-    </div>
 
 
 </body>

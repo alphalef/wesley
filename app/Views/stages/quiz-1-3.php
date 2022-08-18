@@ -44,7 +44,7 @@ body {
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
                         <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                이 일기들은 웨슬리 목사님의 일기장인 것 같다. 그 다음에는 무엇을 해야할까? 이 연필과 종이로 무언가를 할 수 있지 않을까?
+                                문제를 풀다보니 웨슬리 목사님의 일기들이 계속 나오고 있다. 그 다음에는 무엇을 해야할까? 응? 이 연필과 종이는 웨슬리 목사님이 직접 사용하던 것일까?
                             </h3>
                             <!-- <p>(<a href="/img/quiz/quiz-1-3.png" target=_blank>힌트보기</a>)</p> -->
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">

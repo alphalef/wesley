@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
+        background-image: url('https://www.churchofscotland.org.uk/__data/assets/image/0004/69115/Praying-image.png');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -30,15 +30,21 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.5.24.</span>
+            John Wesley <span>@J_Wesley</span>
             <p>
-                “저녁에 마음이 별로 내키지 않았으나 나는 올더스케이트 가에서 모이는 한 교회의 집회에 참석했다. 그 때에 어떤 사람이 로마서에 대한 루터의 서문을 읽고 있었다. 8시 45분쯤 되었을 때 그리스도를 믿는 신앙을 통해 하나님께서 우리 마음에 역사하심으로써 일어나는 변화에 대하여 설명할때에 내 마음이 이상하게 뜨거워지는 것을 느꼈다. 내가 그리스도를 믿고 있었고 그때에 나는 예수 그리스도를 통해서만이 구원을 얻을 수 있다는 확신을 얻게 되었다. 그리고 그리스도께서 내 죄를 사하여 주시고 나같은 죄인의 죄마저도 또한 죄와 사망의 법에서 구원해 주셨다는 확신을 가지게 되었다”
+              성화<br><br>
+              "우리가 .. 완전한 데 나아갈지니라" (히 6:1,2)<br><br>
+              우리가 거듭나는 순간부터 성화의 작업은 점진적으로 일어납니다. 우리는 성령에 의해 육체의 행위와 악한 본성의 행위를 제이할 수 있게 됩니다. 그리고 죄에 대하여 죽으면 죽을수록 하나님에 대하여는 점점 더 살게 됩니다. 우리가 신중하게 모든 악의 행위를 삼가고 선한 행위를 갈망할 때, 신실하게 하나님을 섬기며 그 모든 의식을 흠 없이 받아들일 때, 모든 쾌락을 부인하고 자기 십자가를 질 때, 그 때 우리의 삶은 은혜에서 은혜로 계속 이어지게 됩니다.<br>
+              이와 같이 우리는 완전한 성화, 곧 우리의 모든 죄로부터 완전히 구원받기를 기다리고 있습니다. 이는 오만과 방자, 분노, 불신으로부터의 구원이며 완전한 데 나아가는 것을 의미합니다.<br>
+              그렇다면 완전함이란 무엇일까요? 이 말은 여러가지 의미를 가지고 있지만 여기에서는 완전한 사랑을 뜻합니다. 그것은 죄를 몰아내는 사랑으로서 우리의 마음을 채우는 사랑이며, 우리의 온 심령을 취하는 사랑입니다. 그것은 또한 항상 기뻐하고 쉬지 않고 기도하며 범사에 감사하는 사랑입니다. <br><br>
+
+              하나님, 저의 심령을 하나님의 온전하신 사랑으로 채워 주셔서 하나님 외에는 아무것도 사랑하지 않게 하소서. 주님에 대한 지식을 나날이 깨우칠 수 있는 은혜를 주셔서 주님을 알면 알수록 더욱 더 사랑하게 하옵소서. 제 입에서 나오는 모든 말과 제 손으로 행하는 모든 일로 주님을 찬양하게 하시고 그것이 저의 삶의 유일한 목표가 되게 하소서. 아멘.
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://i0.wp.com/godsmissionarychurch.org/wp-content/uploads/2018/11/aldersgate-experience_orig.jpg?fit=979%2C629&ssl=1" alt="" class="tweet-img">
+    <img src="https://2d0fce5c26.clvaw-cdnwnd.com/99abe6748f56d12c3252904ca60a4973/200001246-7e1b27e1b4/John_Wesley_preaching_on_his_fathers_grave-_in_the_church_yard_at_Epworth_Sunday_June_6th_1742_LCCN2002707689%20%281%29.jpg?ph=2d0fce5c26" alt="" class="tweet-img">
 </div>
 
 <div class="tweet-info-counts">
@@ -67,9 +73,9 @@
     </div>
   </div>
 
-    <div class="col-lg-12">
+   <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/explain-2-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/twitter/index/3-3'">다음으로</button>
         </div>
     </div>
 

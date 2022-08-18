@@ -1,12 +1,13 @@
 <style>
 
 body {
-    background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
+    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/claude-monets-house-and-gardens-in-giverny-france-news-photo-1042013294-1562610151.jpg?crop=1.00xw:0.753xh;0,0.0671xh&resize=640:*');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 
     background-size: cover;     
 }
+
 
 
 .btn {
@@ -42,9 +43,10 @@ body {
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                            <h1 style="padding-bottom: 10px;">#2 변화의 계기</h1>
+                        <h1 style="padding-bottom: 10px;">Chapter 2. 외부</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                1738년 5월 24일 저녁 요한 웨슬리는 내적 고민을 거듭하던 끝에 드디어 그가 바라던 구원의 확신을 체험하게 되었습니다. 런던의 올더스케이트 거리에 위치한 어느 작은 기도 모임의 참석은 요한 웨슬레의 장래와 그의 사역 방향을 바꾸어 놓게 되었습니다. 웨슬리 목사님은 그 모임 가운데에서 온전한 회심의 경험을 하게 됩니다. 웨슬리 목사님은 성경에 대한 루터의 주석을 들으며 회심의 경험을 하게 됩니다. 웨슬리 목사님을 회심케 한 루터의 주석서는 무엇입니까?
+                                믿음! 이것으로 드디어 밖으로 나올 수 있게 되었어. 그런데 이제 어디로 가야하지? 여기 일기장 조각이 내가 나온 문 앞에 부착되어 있다. 아마 내가 가야할 곳과 관련되어 있는 듯하다. 그런데 이 알 수 없는 글귀는 무엇이지? 
+                                <!-- 랜덤 글자로 이루어진 난글자 문서. 여기에 네모 구멍이 뚤린 종이를 찾아 넣으면 그 위치를 찾을 수 있는 힌트를 얻을 수 있다. 키는 밥솥에 숨겨 놓을 것  -->
                             </h3>
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">
                             <input type="button" name="submit" class="btn btn-secondary" style="max-width: 300px; font-size:16px; margin-top:10px;" onClick="answer()" id="button1" value="정답입력">

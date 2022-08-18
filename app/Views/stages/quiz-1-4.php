@@ -44,7 +44,7 @@ body {
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
                             <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                이제 하나만 더 찾으면 이 방을 빠져 나갈 수 있을 것 같다. 당시 웨슬리 목사님은 왜 두려워했을까? 무엇에 대한 확신이 없었던 것일까? 방문에 붙어 있는 이 수학 공식을 풀면될 것 같은데... 어째 공식이 이상한데?                                
+                                이제 하나만 더 찾으면 이 방을 빠져 나갈 수 있을 것 같다. 당시 웨슬리 목사님은 왜 두려워했을까? 무엇에 대한 확신이 없었던 것일까? 방문에 붙어 있는 이 수학 공식을 풀면될 것 같은데... 어째 공식이 이상한데?
                             </h3>
                             <!-- <p>
                                 (<a href="/img/quiz/quiz-1-4.png" target=_blank>힌트보기</a>)

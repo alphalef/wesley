@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
+        background-image: url('https://i.ytimg.com/vi/Ut0_fbWrLEo/maxresdefault.jpg');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -16,9 +16,7 @@
         font-size: 4rem;
         margin-top: 40px;
         font-family: 'Dancing Script', cursive;
-        font-weight: 700;
     }
-
 
 </style>
 
@@ -28,17 +26,33 @@
 
 <div class="tweet-wrap">
     <div class="tweet-header">
-        <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
+        <img src="<?=base_url('img/logo.jpg')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.5.24.</span>
+            동대문교회 <span>@ddmch</span><span>. 2022.8.19.</span>
             <p>
-                “저녁에 마음이 별로 내키지 않았으나 나는 올더스케이트 가에서 모이는 한 교회의 집회에 참석했다. 그 때에 어떤 사람이 로마서에 대한 루터의 서문을 읽고 있었다. 8시 45분쯤 되었을 때 그리스도를 믿는 신앙을 통해 하나님께서 우리 마음에 역사하심으로써 일어나는 변화에 대하여 설명할때에 내 마음이 이상하게 뜨거워지는 것을 느꼈다. 내가 그리스도를 믿고 있었고 그때에 나는 예수 그리스도를 통해서만이 구원을 얻을 수 있다는 확신을 얻게 되었다. 그리고 그리스도께서 내 죄를 사하여 주시고 나같은 죄인의 죄마저도 또한 죄와 사망의 법에서 구원해 주셨다는 확신을 가지게 되었다”
+            금요일 <br>
+            - 출발 (저녁 식사는 밖에서 출발 그룹별로)<br>
+            - 도착 후 시간 되는대로 친교 프로그램 (MBTI와 테이블 톡~)<br><br>
+
+            토요일<br>
+            - 오전 묵상 시간 <br>
+            - 아침 식사 (라면)<br>
+            - 오전 프로그램 ("나는 웨슬리안이다")<br>
+            - 점심(밖에서)<br>
+            - 오후 나들이 (쁘띠 프랑스)<br>
+            - 저녁 식사 (바베큐)<br>
+            - 결단의 메시지 ("믿음, 그리고 성화") 및 기도회 <br>
+            - 이후 친교 프로그램 (보드게임 등)<br><br>
+
+            주일 <br>
+            - 아침 식사 (빵/우유)<br>
+            - 이후 8시 30분경 출발~
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://i0.wp.com/godsmissionarychurch.org/wp-content/uploads/2018/11/aldersgate-experience_orig.jpg?fit=979%2C629&ssl=1" alt="" class="tweet-img">
+    <img src="http://ddmch.org/file/DDMCH/s_board/20181217164043233/20201031104849_htkbvwdy.jpg" alt="" class="tweet-img">
 </div>
 
 <div class="tweet-info-counts">
@@ -67,9 +81,10 @@
     </div>
   </div>
 
+
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/explain-2-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/menu'">돌아가기</button>
         </div>
     </div>
 

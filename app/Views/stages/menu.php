@@ -38,12 +38,12 @@ p {
                                     <h3>나는 웨슬리안이다!</h3>
                                 </div>
                                 <div class="d-grid gap-2 col-lg-8 mx-auto">
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/0'">Welcome</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/schedule'">Schedule</button>
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Sharing</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-1-1'">Stage #1</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-2-1'">Stage #2</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/quiz-3-1'">Stage #3</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Meditation</button>
-                                    <!-- <button class="btn btn-info" type="button" onClick="location.href='/stages/index/menu1'">#0 서로를 알아가기</button> -->
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/meditation-menu'">Meditation</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/escape-menu'">Escape Room</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/praise'">Praise the Lord!</button>
                                 </div>
                             </div>
                         </div>

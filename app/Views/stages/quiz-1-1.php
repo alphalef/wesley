@@ -42,7 +42,7 @@ body {
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
                             <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
-                                얼마나 잠들었던 것일까? 잠에서 문득 깨어보니 낯선 방의 모습이 보인다. 문은 나갈 수 없게 잠겨 있고, 책상 위에는 찢겨 나간 일기장이 놓여 있다. 그런데 이 일기장 아래 쪽에 무언가 숫자가 적혀 있다. 이 숫자는 무엇을 의미하는 것일까? 
+                                얼마나 잠들었던 것일까? 잠에서 문득 깨어보니 낯선 방의 모습이 보인다. 문은 나갈 수 없게 잠겨 있고, 책상 위에는 오래된 일기장 한 페이지가 놓여 있다. 그런데 이 일기장 아래 쪽에 무언가 숫자가 적혀 있다. 이 숫자는 무엇을 의미하는 것일까? 
                             </h3>
                             <!-- <p>(힌트: 8801094503505)</p> -->
                             <input type="text" id="answer" class="form-control" style="max-width:300px; margin:auto;">

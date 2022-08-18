@@ -38,16 +38,7 @@ body {
             <div style="position: absolute; width: 100%;">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
-                        <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                        <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방 Clear</h1>
 
-                        </div>
-
-                        <div class="col-lg-8">
-                            <div class="d-grid gap-2 col-lg-8 mx-auto">
-                                <button class="btn btn-secondary next" id="next" type="button" onClick="location.href='/stages/index/menu'">메뉴로</button>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

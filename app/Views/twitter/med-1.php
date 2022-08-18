@@ -4,7 +4,7 @@
 
 
     body {
-        background-image: url('http://kmcedu.net/data/editor/1802/b8a8a6ed990a1f2358de151713dc41ad_1519365049.9948.jpg');
+        background-image: url('https://www.churchofscotland.org.uk/__data/assets/image/0004/69115/Praying-image.png');
         background-position: center center;
         background-attachment: fixed;
         background-repeat: no-repeat; 
@@ -30,15 +30,22 @@
     <div class="tweet-header">
         <img src="<?=base_url('img/profile.png')?>" alt="" class="avator">
         <div class="tweet-header-info">
-            John Wesley <span>@J_Wesley</span><span>· 1738.5.24.</span>
+            John Wesley <span>@J_Wesley</span>
             <p>
-                “저녁에 마음이 별로 내키지 않았으나 나는 올더스케이트 가에서 모이는 한 교회의 집회에 참석했다. 그 때에 어떤 사람이 로마서에 대한 루터의 서문을 읽고 있었다. 8시 45분쯤 되었을 때 그리스도를 믿는 신앙을 통해 하나님께서 우리 마음에 역사하심으로써 일어나는 변화에 대하여 설명할때에 내 마음이 이상하게 뜨거워지는 것을 느꼈다. 내가 그리스도를 믿고 있었고 그때에 나는 예수 그리스도를 통해서만이 구원을 얻을 수 있다는 확신을 얻게 되었다. 그리고 그리스도께서 내 죄를 사하여 주시고 나같은 죄인의 죄마저도 또한 죄와 사망의 법에서 구원해 주셨다는 확신을 가지게 되었다”
+              거듭남<br><br>
+              "예수께서 대답하여 가라사대 진실로 진실로 네게 이르노니 사람이 거듭나지 아니하면 하나님 나라를 볼 수 없느니라" (요3:3)<br><br>
+              엄마 뱃속에 있는 아기는 눈이 있어도 보지 못하고 귀가 있어도 듣지 못합니다. 그러나 이 세상에 태어나는 순간 아기는 빛을 보기 시작하고, 귀가 열려 듣게 되며, 또한 다른 모든 감각 기관들도 작동하기 시작합니다.<br>
+              영적인 삶에서도 이 같은 일이 얼마나 자주 일어나고 있는지요! 하나님 안에서 거듭나지 않은, 즉 자연 상태에 있는 인간은 영적인 의미에서 눈이 있어도 보지 못하고 귀가 있어도 듣지 못합니다. 다른 모든 영적인 감각들도 폐쇄되어 있어서 마치 그것들이 없는 것과 다름이 없습니다.<br>
+              그러나 하나님 안에서 거듭나는 순간, 완전한 변화가 일어납니다. 마음의 눈이 열리고 하나님의 영광의 빛을 보게 됩니다. 또한 귀가 열려 저 깊은 곳에서 울려오는 하나님의 말씀을 들을 수 있게 됩니다. <br><br>
+              "안심하라, 네 죄 사함을 받았느니라"<br><br>
+
+              오, 주님! 주님께서는 제가 원하고 바라는 모든 것을 넘치도록 풍요롭게 가지고 계십니다. 제가 그 모든 풍요로움을 누릴 수 있게 하소서. 은혜에 은혜를 더하셔서 저의 죄를 사해 주시고 저의 죄악을 소멸해 주옵소서. 그 은혜 가운데 의롭다 함을 얻고 심령이 성화되어 주님의 성도들의 기업을 물려받게 하옵소서. 아멘.
             </p>    
         </div>
     </div>
     
 <div class="tweet-img-wrap">
-    <img src="https://i0.wp.com/godsmissionarychurch.org/wp-content/uploads/2018/11/aldersgate-experience_orig.jpg?fit=979%2C629&ssl=1" alt="" class="tweet-img">
+    <img src="https://ichef.bbci.co.uk/images/ic/640x360/p08yqjk8.jpg" alt="" class="tweet-img">
 </div>
 
 <div class="tweet-info-counts">
@@ -67,9 +74,9 @@
     </div>
   </div>
 
-    <div class="col-lg-12">
+   <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/explain-2-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/twitter/index/3-3'">다음으로</button>
         </div>
     </div>
 
