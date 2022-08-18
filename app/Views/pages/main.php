@@ -25,7 +25,7 @@ p {
                                 <div class="slider_text text-center justify-content-center">
                                     <p>2022 동대문교회 청년부 여름 프로그<a href="/stages/index/menu" style="text-decoration:none; color:white;">램</a></p>
                                     <h3>나는 웨슬리안입니다</h3>
-                                    <a class="boxed-btn3" href="/twitter/index/0">초대의 글</a>
+                                    <a class="boxed-btn3" href="/stages/index/menu">시작하기</a>
                                 </div>
                             </div>
                         </div>
