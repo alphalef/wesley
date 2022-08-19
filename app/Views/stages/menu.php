@@ -40,12 +40,11 @@ p {
                                 <div class="d-grid gap-2 col-lg-8 mx-auto">
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/0'">Welcome</button>
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/schedule'">Schedule</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='#'">Sharing</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='#'">Meditation</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Sharing</button>
+                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/meditation-menu'">Meditation</button>
                                     <button class="btn btn-secondary" type="button" onClick="location.href='#'">Escape Room</button>
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/praise'">Praise the Lord!</button>
-                                    <!-- <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/mbti'">Sharing</button>
-                                    <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/meditation-menu'">Meditation</button>
+                                    <!-- 
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/stages/index/escape-menu'">Escape Room</button>
                                     <button class="btn btn-secondary" type="button" onClick="location.href='/twitter/index/praise'">Praise the Lord!</button> -->
                                 </div>
