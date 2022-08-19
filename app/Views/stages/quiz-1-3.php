@@ -38,11 +38,11 @@ body {
 <div class="carousel-item active">
     <div class="slider_area">
         <div class="single_slider d-flex align-items-center" style="height: 100vh; min-height:800px;">
-            <div style="position: absolute; width: 100%;">
+            <div id="quiz-box" style="position: absolute; width: 100%;">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                        <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
+                        <h1 style="padding-bottom: 10px;">Chapter 1. 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
                                 문제를 풀다보니 웨슬리 목사님의 일기들이 계속 나오고 있다. 그 다음에는 무엇을 해야할까? 응? 이 연필은 웨슬리 목사님이 사용하던 것일까? 그 옆에 있는 동전들은 무엇이지?
                             </h3>

@@ -68,7 +68,7 @@ body {
 <script>
 
     function answer() {
-        let answer = document.getElementById('answer').value.trim();
+        let answer = document.getElementById('answer').value.toUpperCase();
 
         if(answer.trim() == "F41T6") {
             window.alert('정답입니다!');

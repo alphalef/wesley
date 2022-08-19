@@ -777,6 +777,11 @@ h3 {
     font-size: 30px;
     line-height: 36px;
   }
+
+  .btn {
+    width: 250px;
+    margin: auto;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {

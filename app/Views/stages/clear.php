@@ -1,7 +1,7 @@
 <style>
 
 body {
-    background-image: url('https://monroeescaperooms.com/wp-content/uploads/2017/02/o-DOOR-OPENING-facebook.jpg');
+    background-image: url('https://media.istockphoto.com/photos/dark-room-with-opened-door-picture-id93533102?k=20&m=93533102&s=170667a&w=0&h=4Wxm4cPp0p80eQ9Zzxz4ZI483WcdsM0RuvsSUsQpyAk=');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; 

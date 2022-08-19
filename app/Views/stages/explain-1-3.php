@@ -35,7 +35,7 @@ body {
 <div class="carousel-item active">
     <div class="slider_area">
         <div class="single_slider d-flex align-items-center" style="height: 100vh; min-height:800px;">
-            <div style="position: absolute; width: 100%;">
+            <div id="quiz-box" style="position: absolute; width: 100%;">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">

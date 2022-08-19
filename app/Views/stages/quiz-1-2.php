@@ -1,5 +1,4 @@
 <style>
-
 body {
     background-image: url('https://static-prod.adweek.com/wp-content/uploads/2020/10/virtual-escape-room-PAGE-2020-1240x620.jpg.webp');
     background-position: center center;
@@ -7,7 +6,6 @@ body {
     background-repeat: no-repeat; 
     background-size: cover;     
 }
-
 
 .btn {
     font-size: 30px;
@@ -38,11 +36,11 @@ body {
 <div class="carousel-item active">
     <div class="slider_area">
         <div class="single_slider d-flex align-items-center" style="height: 100vh; min-height:800px;">
-            <div style="position: absolute; width: 100%;">
+            <div id="quiz-box" style="position: absolute; width: 100%;">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-8" style="text-align:center; background-color:rgba(255,255,255,0.8); padding: 10px; border-radius:30px; margin-bottom:20px;">
-                        <h1 style="padding-bottom: 10px;">Chapter 1. 의문의 방</h1>
+                            <h1 style="padding-bottom: 10px;">Chapter 1. 방</h1>
                             <h3 style="padding-bottom: 20px; font-family:gw; text-align:justify;">
                                 웨슬리 목사님의 아주 오래된 일기장인 것 같다. 이 일기장은 나에게 무엇을 말하려고 하는 것일까? 이 번호는 쌩뚱맞게도 커피 바코드 번호였다. 바코드? 그 다음 힌트가 될 수 있을까?
                             </h3>

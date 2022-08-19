@@ -31,8 +31,9 @@
             동대문교회 <span>@ddmch</span><span>. 2022.8.19.</span>
             <p>
             금요일 <br>
-            - 출발 (저녁 식사는 밖에서 출발 그룹별로)<br>
-            - 도착 후 시간 되는대로 친교 프로그램 (MBTI와 테이블 톡~)<br><br>
+            - 출발<br>
+            - 저녁식사(출발팀별로)<br>
+            - 도착 후 시간 되는대로 친교 프로그램 (MBTI와 테이블톡)<br><br>
 
             토요일<br>
             - 오전 묵상 시간 <br>
@@ -84,7 +85,7 @@
 
     <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/menu'">돌아가기</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/menu'">돌아가기</button>
         </div>
     </div>
 
