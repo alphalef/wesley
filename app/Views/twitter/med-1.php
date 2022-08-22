@@ -76,7 +76,7 @@
 
    <div class="col-lg-12">
         <div class="d-grid gap-2 col-lg-12 mx-auto">
-            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/twitter/index/3-3'">다음으로</button>
+            <button class="btn btn-secondary" style="margin:10px auto;" type="button" onClick="location.href='/stages/index/menu'">돌아가기</button>
         </div>
     </div>
 
